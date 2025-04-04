@@ -8,3 +8,8 @@
 npm create vite@latest
 npm install
 ```
+## Running Frontend Server
+1. Run the command below and navigate to the link visible in terminal.
+```
+npm run dev
+```
